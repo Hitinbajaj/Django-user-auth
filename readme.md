@@ -1,9 +1,5 @@
 # Django User Authentication and Profile Display
 
-## Deployment link
-
-    `` ``
-
 ## Features
 
 - **User authentication (sign up, log in, log out)**
