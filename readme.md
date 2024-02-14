@@ -11,33 +11,33 @@
 
 - **Clone the Repository**
 
-git clone <repository_url>
+    git clone <repository_url>
 
 - **Enter into project's directory**
 
-cd <project_directory>
+    cd <project_directory>
 
 - **Set up virtual enviroment.**
 
-python -m venv venv  
+    python -m venv venv  
 
 - **activate virtual enviroment**
 
-venv\scripts\activate  
+    venv\scripts\activate  
 
 - **Install django in venv**
 
-pip install django --upgrade  
+    pip install django --upgrade  
 
 - **Set up project**
 
-python manage.py makemigrations
+    python manage.py makemigrations
 
-python manage.py migrate
+    python manage.py migrate
 
-python manage.py createsuperuser 
+    python manage.py createsuperuser 
 
 - **Run the application**
 
-python manage.py runserver  
+    python manage.py runserver  
 
