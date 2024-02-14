@@ -11,7 +11,7 @@
 
 - **Clone the Repository**
 
-    git clone <repository_url>
+    ``git clone <repository_url>``
 
 - **Enter into project's directory**
 
